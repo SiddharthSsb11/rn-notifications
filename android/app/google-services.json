@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253192392572",
+    "project_id": "rn-notif-decd8",
+    "storage_bucket": "rn-notif-decd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253192392572:android:21ee49f3095dd56e009ef9",
+        "android_client_info": {
+          "package_name": "com.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMGipw-m_mN4k3Qv5u-OZ3vz8nBhteLu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
